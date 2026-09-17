@@ -1,0 +1,82 @@
+[
+    {
+        "feature": "Credit_History",
+        "importance": 0.278744
+    },
+    {
+        "feature": "ApplicantIncome",
+        "importance": 0.155007
+    },
+    {
+        "feature": "LoanAmount",
+        "importance": 0.146974
+    },
+    {
+        "feature": "CoapplicantIncome",
+        "importance": 0.104746
+    },
+    {
+        "feature": "Loan_Amount_Term",
+        "importance": 0.046858
+    },
+    {
+        "feature": "Property_Area_Semiurban",
+        "importance": 0.033344
+    },
+    {
+        "feature": "Property_Area_Rural",
+        "importance": 0.021181
+    },
+    {
+        "feature": "Dependents_1",
+        "importance": 0.020304
+    },
+    {
+        "feature": "Dependents_0",
+        "importance": 0.019447
+    },
+    {
+        "feature": "Education_Not Graduate",
+        "importance": 0.018895
+    },
+    {
+        "feature": "Married_Yes",
+        "importance": 0.018282
+    },
+    {
+        "feature": "Education_Graduate",
+        "importance": 0.018232
+    },
+    {
+        "feature": "Dependents_2",
+        "importance": 0.017566
+    },
+    {
+        "feature": "Married_No",
+        "importance": 0.016756
+    },
+    {
+        "feature": "Property_Area_Urban",
+        "importance": 0.016332
+    },
+    {
+        "feature": "Self_Employed_Yes",
+        "importance": 0.015023
+    },
+    {
+        "feature": "Gender_Male",
+        "importance": 0.013622
+    },
+    {
+        "feature": "Gender_Female",
+        "importance": 0.013542
+    },
+    {
+        "feature": "Dependents_3+",
+        "importance": 0.013089
+    },
+    {
+        "feature": "Self_Employed_No",
+        "importance": 0.012057
+    }
+]
