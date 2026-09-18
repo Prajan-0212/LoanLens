@@ -7,7 +7,7 @@ function Evaluation() {
     const [error, setError] = useState("");
 
     useEffect(() => {
-        fetch("http://127.0.0.1:8000/api/evaluation/")
+        fetch(`${import.meta.env.VITE_API_BASE_URL}/api/evaluation/`)
             .then((response) => {
                 if (!response.ok) {
                     throw new Error("Unable to load model evaluation.");
